@@ -1,0 +1,115 @@
+@media (max-width: 480px) {
+  .navbar {
+    padding: 8px 16px;
+    gap: 1rem;
+  }
+  .img-bmw .logo {
+    width: 56px;
+  }
+  .menu {
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .menu a {
+    font-size: 1rem;
+    padding: 0.3rem 0.6rem;
+  }
+  .sobre {
+    height: auto;
+    padding: 1rem;
+  }
+  .sobre .Loja-BMW {
+    width: 100%;
+    height: auto;
+  }
+  .cards {
+    justify-content: center;
+  }
+  .card {
+    width: 100%;
+    max-width: 360px;
+  }
+  .race-car {
+    flex-direction: column;
+    padding: 0 1rem;
+  }
+  .img-bmws {
+    width: 100%;
+    max-width: 480px;
+  }
+  .container-footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  .navbar {
+    padding: 12px 24px;
+    gap: 1.5rem;
+  }
+  .img-bmw .logo {
+    width: 64px;
+  }
+  .menu {
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .menu a {
+    font-size: 1.05rem;
+    padding: 0.4rem 0.8rem;
+  }
+  .sobre {
+    height: auto;
+    padding: 1rem 2rem;
+  }
+  .sobre .Loja-BMW {
+    width: 100%;
+    height: auto;
+  }
+  .cards {
+    justify-content: center;
+  }
+  .card {
+    width: 45%;
+    max-width: 400px;
+  }
+  .race-car {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .img-bmws {
+    width: 100%;
+    max-width: 640px;
+  }
+  .container-footer {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .navbar {
+    padding: 12px 32px;
+    gap: 2rem;
+  }
+  .img-bmw .logo {
+    width: 72px;
+  }
+  .menu a {
+    font-size: 1.1rem;
+  }
+  .cards {
+    justify-content: center;
+  }
+  .card {
+    width: 30%;
+    max-width: 340px;
+  }
+  .race-car {
+    gap: 1.5rem;
+  }
+  .img-bmws {
+    width: 420px;
+  }
+}
