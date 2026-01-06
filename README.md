@@ -107,34 +107,6 @@ Projeto - BMW/
 
 ---
 
-## 👤 Autor
-
-Desenvolvido por **Bruno Carus** (IBrunooDev).
-
-- **LinkedIn:** [Bruno Carus](https://www.linkedin.com/in/brunocarus/)
-- **GitHub:** [IBrunooDev](https://github.com/IBrunooDev)
-
----
-
-## 📄 Licença
-
-Este projeto é para fins de estudo e portfólio pessoal. Todos os direitos das imagens e marcas registradas pertencem à **BMW**.
-
----
-
-<div align="center">
-  <sub>Feito com 💙 e muita velocidade por Bruno Carus.</sub>
-</div>
-
-## 👤 Autor
-
-Desenvolvido por **Bruno Carus** (IBrunooDev).
-
-- **LinkedIn:** [Bruno Carus](https://www.linkedin.com/in/brunocarus/)
-- **GitHub:** [IBrunooDev](https://github.com/IBrunooDev)
-
----
-
 ## 🔗 Links
 
 - [GitHub](https://github.com/IBrunooDev)
@@ -143,4 +115,3 @@ Desenvolvido por **Bruno Carus** (IBrunooDev).
 ---
 
 Desenvolvido com ❤️ por [Bruno Henrique](https://github.com/IBrunooDev) 
-
