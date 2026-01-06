@@ -1,3 +1,12 @@
+### <h1 align="center"> :computer: Web Site BMW :computer:</h1>
+
+<p align="center">
+ <a href="https://loja-bmw.netlify.app/">Clique Aqui para ir ao Site</a><br/>
+</p>
+
+<img width="1352" height="598" alt="image" src="https://github.com/user-attachments/assets/7ad3fe1b-4a6f-49ec-9244-39b0606204cc" />
+
+
 # 🏎️ BMW M Power - Landing Page
 
 Bem-vindo ao repositório do projeto **BMW M Power**! Este é uma landing page desenvolvida para exibir a elegância e a potência da linha BMW M, incluindo peças exclusivas e modelos de corrida.
@@ -62,9 +71,8 @@ Projeto - BMW/
 
 1. **Clone este repositório** (ou baixe os arquivos):
    ```bash
-   git clone https://github.com/IBrunooDev/Projeto-BMW.git
+   git clone https://github.com/IBrunooDev/WebSite-BMW.git
    ```
-   *(Nota: Ajuste a URL do repositório se necessário)*
 
 2. **Navegue até a pasta do projeto:**
    Abra a pasta onde os arquivos foram salvos.
@@ -83,12 +91,11 @@ Desenvolvido por **Bruno Carus** (IBrunooDev).
 
 ---
 
-## 📄 Licença
+## 🔗 Links
 
-Este projeto é para fins de estudo e portfólio pessoal. Todos os direitos das imagens e marcas registradas pertencem à **BMW**.
-
+- [GitHub](https://github.com/IBrunooDev)
+- [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
+- [Instagram](https://www.instagram.com/ibrunoodev/)
 ---
 
-<div align="center">
-  <sub>Feito com 💙 e muita velocidade por Bruno Carus.</sub>
-</div>
+Desenvolvido com ❤️ por [Bruno Henrique](https://github.com/IBrunooDev) 
