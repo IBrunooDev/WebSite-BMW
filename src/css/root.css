@@ -1,0 +1,10 @@
+:root{
+    /* Color : Header */
+    --color-header: #232323;
+
+    /* Color : Hover */
+    --color-hover: #61686a;
+
+    /* Color : botao */
+    --color-botao: #212728;
+}
