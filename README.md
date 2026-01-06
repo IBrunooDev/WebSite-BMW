@@ -44,7 +44,23 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 📂 Estrutura de Arquivos
+## � Responsividade e Manutenção
+
+- **CSS Responsivo Separado:** Todas as regras de responsividade foram colocadas em `src/css/responsive.css` para facilitar manutenção.
+- **Prioridade de Overrides:** `responsive.css` é carregado por último no `index.html`, garantindo que sobreponha estilos base quando necessário.
+- **Breakpoints aplicados:**
+  - Até `480px` (mobile): paddings reduzidos, logo menor, menu com wrap, cards em 100%, seção “Linha Racing” em coluna, footer empilhado.
+  - `481–768px` (tablet): ajustes de espaçamento, cards em duas colunas (~45%), “Linha Racing” em coluna com imagens fluidas, footer com wrap.
+  - `769–1024px` (telas médias): cards em três colunas proporcionais, imagens ajustadas (~420px), gaps refinados.
+- **HTML atualizado:** Inclusão do link para o CSS responsivo em `index.html:14`:
+
+  ```
+  <link rel="stylesheet" href="./src/css/responsive.css" />
+  ```
+
+---
+
+## �📂 Estrutura de Arquivos
 
 A organização do projeto segue a seguinte estrutura:
 
@@ -54,8 +70,9 @@ Projeto - BMW/
 ├── index.html          # Arquivo principal HTML
 ├── src/
 │   ├── css/
-│   │   ├── root.css    # Definição de variáveis CSS
-│   │   └── style.css   # Estilos principais da página
+│   │   ├── root.css        # Definição de variáveis CSS
+│   │   ├── style.css       # Estilos principais da página
+│   │   └── responsive.css  # Apenas media queries e ajustes responsivos
 │   └── img/            # Imagens utilizadas no projeto
 │       ├── Contato.webp
 │       ├── Kit-BMW.webp
@@ -67,12 +84,20 @@ Projeto - BMW/
 
 ---
 
+## 🆕 Atualizações Recentes
+
+- Adicionado `src/css/responsive.css` com media queries para mobile, tablet e desktop.
+- Link do CSS responsivo incluído em `index.html:14`.
+- Ajustes de layout em breakpoints para navbar, menu, cards, seção “Linha Racing” e footer.
+
+---
+
 ## 🔧 Como Executar
 
 1. **Clone este repositório** (ou baixe os arquivos):
    ```bash
-   git clone https://github.com/IBrunooDev/WebSite-BMW.git
-   ```
+   git clone https://github.com/IBrunooDev/WebSite-BMW
+   ``
 
 2. **Navegue até a pasta do projeto:**
    Abra a pasta onde os arquivos foram salvos.
@@ -91,6 +116,25 @@ Desenvolvido por **Bruno Carus** (IBrunooDev).
 
 ---
 
+## 📄 Licença
+
+Este projeto é para fins de estudo e portfólio pessoal. Todos os direitos das imagens e marcas registradas pertencem à **BMW**.
+
+---
+
+<div align="center">
+  <sub>Feito com 💙 e muita velocidade por Bruno Carus.</sub>
+</div>
+
+## 👤 Autor
+
+Desenvolvido por **Bruno Carus** (IBrunooDev).
+
+- **LinkedIn:** [Bruno Carus](https://www.linkedin.com/in/brunocarus/)
+- **GitHub:** [IBrunooDev](https://github.com/IBrunooDev)
+
+---
+
 ## 🔗 Links
 
 - [GitHub](https://github.com/IBrunooDev)
@@ -99,3 +143,4 @@ Desenvolvido por **Bruno Carus** (IBrunooDev).
 ---
 
 Desenvolvido com ❤️ por [Bruno Henrique](https://github.com/IBrunooDev) 
+
